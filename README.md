@@ -1,3 +1,3 @@
 # PHPAiModel-Transformer
 
-![PHPAiModel-Transformer](gru.png)
+![PHPAiModel-Transformer](screen.png)
