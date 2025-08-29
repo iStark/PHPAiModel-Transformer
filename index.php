@@ -92,7 +92,7 @@ if (is_dir($MODELS_DIR)) {
         <div><strong>PHPAiModel-Transformer</strong> — pre-LN, GELU, MHA, tied output head.</div>
         <div>© <span id="year">2025</span>. Developed by <strong>Artur Strazewicz</strong> — concept, architecture, PHPAiModel-Transformer, UI,  <strong>MIT license</strong>.</div>
         <div class="links">
-            <a href="https://github.com/iStark/PHPAiModel-NGram" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://github.com/iStark/PHPAiModel-Transformer" target="_blank" rel="noopener">GitHub</a>
             <a href="https://www.linkedin.com/in/arthur-stark/" target="_blank" rel="noopener">LinkedIn</a>
             <a href="https://truthsocial.com/@strazewicz" target="_blank" rel="noopener">Truth Social</a>
             <a href="https://x.com/strazewicz" target="_blank" rel="noopener">X (Twitter)</a>
